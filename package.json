@@ -10,7 +10,7 @@
     "dateformat": "^3.0.3",
     "hdkey": "^1.1.1",
     "json-bigint": "^0.3.0",
-    "keythereum": "^1.2.0",
+    "keythereum": "github:TradaTech/keythereum",
     "lodash": "^4.17.11",
     "node-sass": "^4.14.1",
     "npm": "^6.9.0",
