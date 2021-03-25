@@ -3,7 +3,7 @@ import { withRouter } from 'react-router-dom';
 import { connect } from 'react-redux';
 import QueueAnim from 'rc-queue-anim';
 
-import { codec, AccountType } from '@iceteachain/common';
+import { codec, AccountType } from '@glitchdefi/common';
 import * as actions from '../../../store/actions/account';
 import logo from '../../../assets/img/logo.svg';
 import unlockRecommend from '../../../assets/img/unlock_recommend.svg';

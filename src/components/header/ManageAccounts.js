@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 import { withRouter, Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
-import { codec, AccountType } from '@iceteachain/common';
+import { codec, AccountType } from '@glitchdefi/common';
 import JSONbig from 'json-bigint';
 
 import tweb3 from '../../service/tweb3';

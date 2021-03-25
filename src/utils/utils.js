@@ -1,6 +1,6 @@
 import * as bip39 from 'bip39';
 import HDKey from 'hdkey';
-import { ecc, codec, AccountType } from '@iceteachain/common';
+import { ecc, codec, AccountType } from '@glitchdefi/common';
 import decode from './decode';
 import paths from '../config/walletPaths';
 

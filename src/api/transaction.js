@@ -1,4 +1,4 @@
-import { ecc } from '@iceteachain/common';
+import { ecc } from '@glitchdefi/common';
 import dateFormat from 'dateformat';
 import tweb3 from '../service/tweb3';
 import { toTEA } from '../utils';

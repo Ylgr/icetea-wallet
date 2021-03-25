@@ -1,5 +1,5 @@
 const keythereum = require('keythereum');
-const { codec } = require('@iceteachain/common');
+const { codec } = require('@glitchdefi/common');
 
 /**
  * @privateKey

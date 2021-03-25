@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import { codec } from '@iceteachain/common';
+import { codec } from '@glitchdefi/common';
 import _ from 'lodash';
 import { connect } from 'react-redux';
 import notifi from '../../elements/Notification';

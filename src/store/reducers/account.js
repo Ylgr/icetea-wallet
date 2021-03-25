@@ -1,4 +1,4 @@
-import { AccountType } from '@iceteachain/common';
+import { AccountType } from '@glitchdefi/common';
 import { actionTypes } from '../actions/account';
 
 const initialState = Object.assign(

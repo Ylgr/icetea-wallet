@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import Select, { Option } from 'rc-select';
 import 'rc-select/assets/index.css';
 import '../../../assets/styles/rcSelect.css';
-import { utils } from '@iceteachain/common';
+import { utils } from '@glitchdefi/common';
 import notifi from '../../elements/Notification';
 
 import { PuConfirm } from '../../elements/PuConfirm';
